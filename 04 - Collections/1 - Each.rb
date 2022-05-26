@@ -35,3 +35,14 @@
     end
 
     puts novo_array
+    puts '----'
+
+    #Para Hash -->
+
+    #basicamente mesma coisa so que você atribui duas variaveis ex.:
+
+    hash = capitais = {alagoas: "maceio", sao_paulo: "são paulo", bahia: "salvador"}
+
+    hash.each do |key, value|
+        puts "Estado: #{key} -> capital: #{value}"
+    end

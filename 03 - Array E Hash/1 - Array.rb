@@ -2,7 +2,7 @@
 #       Lista de elementos, cade elemento tem seu index começando por 0
 
 
-lista = []   #criar Lista
+lista = []   #criar Array
 
             #0      #1    #2       #3
 lista = ["matheus", 02, "joao", "Pedro"]
